@@ -1,4 +1,4 @@
-**COMPUTER SCIENCE LAB (C-I): Programming Fundamentals using C++ Lab**
+#COMPUTER SCIENCE LAB (C-I): Programming Fundamentals using C++ Lab#
 
 
 1. WAP to print the sum and product of digits of an integer.
@@ -15,16 +15,16 @@ function to find whether the string entered by user is Palindrome or not.
 6. Write a function to find whether a given no. is prime or not. Use the same to generate
 the prime numbers less than 100.
 
-7.WAP to compute the factors of a given number.
+7. WAP to compute the factors of a given number.
 
 8. Write a macro that swaps two numbers. WAP to use it.
 
 9. WAP to print a triangle of stars as follows (take number of lines from user):
-\*\n
-\*\*\*\n
-\*\*\*\*\*\n
-\*\*\*\*\*\*\*\n
-\*\*\*\*\*\*\*\*\*\n
+\*<br>
+\*\*\*<br>
+\*\*\*\*\*<br>
+\*\*\*\*\*\*\*<br>
+\*\*\*\*\*\*\*\*\*<br>
 
 10. WAP to perform following actions on an array entered by the user:
 i) Print the even-valued elements
