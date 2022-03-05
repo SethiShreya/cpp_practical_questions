@@ -20,11 +20,11 @@ the prime numbers less than 100.
 8. Write a macro that swaps two numbers. WAP to use it.
 
 9. WAP to print a triangle of stars as follows (take number of lines from user):
-*
-***
-*****
-*******
-*********
+\*
+\*\*\*
+\*\*\*\*\*
+\*\*\*\*\*\*\*
+\*\*\*\*\*\*\*\*\*
 
 10. WAP to perform following actions on an array entered by the user:
 i) Print the even-valued elements
