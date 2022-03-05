@@ -1,4 +1,4 @@
-#COMPUTER SCIENCE LAB (C-I): Programming Fundamentals using C++ Lab
+# COMPUTER SCIENCE LAB (C-I): Programming Fundamentals using C++ Lab
 
 
 1. WAP to print the sum and product of digits of an integer.
