@@ -1,1 +1,0 @@
-This is the base file from which content will be transferred to destination file.
